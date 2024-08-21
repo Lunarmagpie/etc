@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -x WLR_DRM_DEVICES /dev/dri/card1:/dev/dri/card1
+
+/home/jake/scripts/prime-run sway 

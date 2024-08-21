@@ -1,0 +1,1 @@
+/home/jake/.cargo/bin/evsieve --input /dev/input/by-id/usb-SINO_WEALTH_Gaming_KB-event-kbd --input /dev/input/by-id/usb-Logitech_G203_LIGHTSYNC_Gaming_Mouse_207D39845831-event-mouse grab --output &
